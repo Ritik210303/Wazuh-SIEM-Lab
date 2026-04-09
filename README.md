@@ -90,7 +90,7 @@ You can view the complete detailed report here:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ritik Patel**  
 SOC – Threat Research Intern
